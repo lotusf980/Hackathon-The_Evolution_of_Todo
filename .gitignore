@@ -51,3 +51,6 @@ htmlcov/
 # UV
 .uv/
 uv.lock
+"node_modules/"  
+".next/"  
+"__pycache__/"  
